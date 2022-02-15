@@ -110,6 +110,9 @@ I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**
 
 [<img alt="Burg'ISEN" src="https://image.flaticon.com/icons/png/512/3075/3075977.png" width="20" height="20" />](https://github.com/GBernard314/burgisen2.0) ```Burg'ISEN``` a school subject about making an **restaurant android app**
 
+[<img alt="Tracking" src="https://raw.githubusercontent.com/GBernard314/activity_tragle/main/resources/icon.png" width="20" height="20" />](https://github.com/GBernard314/activity_tragle) ```activity_tragle``` quick project for stats an **activity tracker made from google's data**
+
+
 
 ## My human skills
 
