@@ -64,6 +64,7 @@ I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**
     <!-- <img alt="Flask" src="https://img.shields.io/badge/-Flask-f0f0f0?style=flat-square&logo=flask&logoColor=000000" height="25"/> -->
     <img alt="Aws" src="https://img.shields.io/badge/-Amazon_AWS-f0f0f0?style=flat-square&logo=Amazon-AWS&logoColor=232F3E" height="25"/> 
     <img alt="GCP" src="https://img.shields.io/badge/-Google_GCP-f0f0f0?style=flat-square&logo=Google-Cloud&logoColor=4285F4" height="25"/> 
+    <img alt="IBM" src="https://img.shields.io/badge/-IBM_Bluemix-f0f0f0?style=flat-square&logo=ibm-watson&logoColor=BE95FF" height="25"/> 
     <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-f0f0f0?style=flat-square&logo=Docker&logoColor=2496ED" height="25"/> -->
     <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-f0f0f0?style=flat-square&logo=Swagger&logoColor=85EA2D" height="25"/> 
     <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-f0f0f0?style=flat-square&logo=Datadog&logoColor=632CA6" height="25"/> 
