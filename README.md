@@ -23,17 +23,37 @@ I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**
 </details>
 
 
-## My code skills 
-### **Big Data**
+## **Favorite Stack ⭐**
 <p>  
+    Languages : <br/>
     <img alt="Python" src="https://img.shields.io/badge/-Python-f0f0f0?style=flat-square&logo=python&logoColor=3776AB" height="25"/>
-    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-f0f0f0?style=flat-square&logo=tableau&logoColor=E97627" height="25"/> 
+    <img alt="JSON" src="https://img.shields.io/badge/-JSON-f0f0f0?style=flat-square&logo=json&logoColor=000000" height="25"/> 
+    <br/>Frameworks : <br/>
     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-f0f0f0?style=flat-square&logo=pandas&logoColor=150458" height="25"/> 
-    <img alt="MSExcel" src="https://img.shields.io/badge/-MS Excel-f0f0f0?style=flat-square&logo=microsoft-excel&logoColor=217346" height="25"/>  
-    <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-f0f0f0?style=flat-square&logo=kaggle&logoColor=20BEFF" height="25"/> 
-    <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-f0f0f0?style=flat-square&logo=jupyter&logoColor=F37626" height="25"/>
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-f0f0f0?style=flat-square&logo=flask&logoColor=000000" height="25"/>
+    <br/> Databases : <br/>    
     <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-f0f0f0?style=flat-square&logo=postgresql&logoColor=336791" height="25"/> 
     <img alt="SQLite" src="https://img.shields.io/badge/-Sqlite-f0f0f0?style=flat-square&logo=sqlite&logoColor=003B57" height="25"/> 
+    <br/> Environments : <br/>
+    <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-f0f0f0?style=flat-square&logo=jupyter&logoColor=F37626" height="25"/>
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-f0f0f0?style=flat-square&logo=Docker&logoColor=2496ED" height="25"/>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-f0f0f0?style=flat-square&logo=Git&logoColor=f05032" height="25"/> 
+    <br/> OS : <br/>
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-f0f0f0?style=flat-square&logo=Linux&logoColor=fcc624" height="25"/> 
+
+</p>
+
+## My other skills
+### **Big Data**
+<p>  
+    <!-- <img alt="Python" src="https://img.shields.io/badge/-Python-f0f0f0?style=flat-square&logo=python&logoColor=3776AB" height="25"/>
+    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-f0f0f0?style=flat-square&logo=tableau&logoColor=E97627" height="25"/> 
+    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-f0f0f0?style=flat-square&logo=pandas&logoColor=150458" height="25"/>  -->
+    <img alt="MSExcel" src="https://img.shields.io/badge/-MS_Excel-f0f0f0?style=flat-square&logo=microsoft-excel&logoColor=217346" height="25"/>  
+    <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-f0f0f0?style=flat-square&logo=kaggle&logoColor=20BEFF" height="25"/> 
+    <!-- <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-f0f0f0?style=flat-square&logo=jupyter&logoColor=F37626" height="25"/>
+    <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-f0f0f0?style=flat-square&logo=postgresql&logoColor=336791" height="25"/> 
+    <img alt="SQLite" src="https://img.shields.io/badge/-Sqlite-f0f0f0?style=flat-square&logo=sqlite&logoColor=003B57" height="25"/>  -->
     <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-f0f0f0?style=flat-square&logo=oracle&logoColor=f80000" height="25"/> 
 
 </p>
@@ -41,9 +61,10 @@ I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**
 ### **Cloud**
 <p>  
     <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-f0f0f0?style=flat-square&logo=terraform&logoColor=7B42BC" height="25"/>
-    <img alt="Flask" src="https://img.shields.io/badge/-Flask-f0f0f0?style=flat-square&logo=flask&logoColor=000000" height="25"/>
-    <img alt="Aws" src="https://img.shields.io/badge/-Amazon AWS-f0f0f0?style=flat-square&logo=Amazon AWS&logoColor=232F3E" height="25"/> 
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-f0f0f0?style=flat-square&logo=Docker&logoColor=2496ED" height="25"/>
+    <!-- <img alt="Flask" src="https://img.shields.io/badge/-Flask-f0f0f0?style=flat-square&logo=flask&logoColor=000000" height="25"/> -->
+    <img alt="Aws" src="https://img.shields.io/badge/-Amazon_AWS-f0f0f0?style=flat-square&logo=Amazon-AWS&logoColor=232F3E" height="25"/> 
+    <img alt="GCP" src="https://img.shields.io/badge/-Google_GCP-f0f0f0?style=flat-square&logo=Google-Cloud&logoColor=4285F4" height="25"/> 
+    <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-f0f0f0?style=flat-square&logo=Docker&logoColor=2496ED" height="25"/> -->
     <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-f0f0f0?style=flat-square&logo=Swagger&logoColor=85EA2D" height="25"/> 
     <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-f0f0f0?style=flat-square&logo=Datadog&logoColor=632CA6" height="25"/> 
 </p>
@@ -60,16 +81,18 @@ I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**
 
 ### **Versioning**
 <p>  
-    <img alt="Git" src="https://img.shields.io/badge/-Git-f0f0f0?style=flat-square&logo=Git&logoColor=f05032" height="25"/> 
+    <!-- <img alt="Git" src="https://img.shields.io/badge/-Git-f0f0f0?style=flat-square&logo=Git&logoColor=f05032" height="25"/>  -->
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-f0f0f0?style=flat-square&logo=GitHub&logoColor=181717" height="25" /> 
     <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-f0f0f0?style=flat-square&logo=GitLab&logoColor=FCA121" height="25"/>
 </p>
 
 ### **OS**
 <p>  
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-f0f0f0?style=flat-square&logo=Linux&logoColor=fcc624" height="25"/> 
+    <!-- <img alt="Linux" src="https://img.shields.io/badge/-Linux-f0f0f0?style=flat-square&logo=Linux&logoColor=fcc624" height="25"/>  -->
     <img alt="Unraid" src="https://img.shields.io/badge/-unraid-f0f0f0?style=flat-square&logo=Unraid&logoColor=F15A2C" height="25"/>
-    <img alt="Raspberry" src="https://img.shields.io/badge/-Raspberry Pi-f0f0f0?style=flat-square&logo=Raspberry-pi&logoColor=A22846" height="25"/> 
+    <img alt="Raspberry" src="https://img.shields.io/badge/-Raspberry_Pi-f0f0f0?style=flat-square&logo=Raspberry-pi&logoColor=A22846" height="25"/> 
+    <img alt="Windows" src="https://img.shields.io/badge/-Windows-f0f0f0?style=flat-square&logo=windows&logoColor=0078D6" height="25"/> 
+    <img alt="ChromeOS" src="https://img.shields.io/badge/-Chrome-f0f0f0?style=flat-square&logo=googlechrome&logoColor=#4285F4" height="25"/> 
 </p>
 
 ### **Languages**
@@ -79,7 +102,7 @@ I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**
     <img alt="Go" src="https://img.shields.io/badge/-Go-f0f0f0?style=flat-square&logo=Go&logoColor=00ADD8" height="25"/>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-f0f0f0?style=flat-square&logo=GNU-bash&logoColor=4EAA25" height="25"/> 
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f0f0f0?style=flat-square&logo=kotlin&logoColor=0095D5" height="25"/> 
-    <img alt="JSON" src="https://img.shields.io/badge/-JSON-f0f0f0?style=flat-square&logo=json&logoColor=000000" height="25"/> 
+    <!-- <img alt="JSON" src="https://img.shields.io/badge/-JSON-f0f0f0?style=flat-square&logo=json&logoColor=000000" height="25"/>  -->
     <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-f0f0f0?style=flat-square&logo=markdown&logoColor=000000" height="25"/> 
 
   
