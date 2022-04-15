@@ -126,13 +126,13 @@ I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**
 
 [<img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="20" height="20" />](https://github.com/GBernard314/cronogram) ```cronogram``` the *Telegramic* **cron job notifier**
 
-[<img alt="DBMS" src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20" />](https://github.com/GBernard314/decibel_dB) ```decibel-dB``` the lightweight **DataBase Management System**
+[<img alt="DBMS" src="https://github.com/GBernard314/decibel_dB/blob/master/icon.png" width="20" height="20" />](https://github.com/GBernard314/decibel_dB) ```decibel-dB``` the lightweight **DataBase Management System**
 
 [<img alt="BBC" src="https://static.thenounproject.com/png/108491-200.png" width="20" height="20" />](https://github.com/GBernard314/Big_beautiful_chess) ```big_beautiful_chess``` the online **Multiplayer Chess Game**
 
 [<img alt="Covipi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcyXblUzfQdB37tssMy9ZeRM2jQPUeTif8g&usqp=CAU" width="20" height="20" />](https://github.com/PDesoomer/Covipi) ```Covipi``` the dashboard of worldwide cases of **covid-19**
 
-[<img alt="Burg'ISEN" src="https://image.flaticon.com/icons/png/512/3075/3075977.png" width="20" height="20" />](https://github.com/GBernard314/burgisen2.0) ```Burg'ISEN``` a school subject about making an **restaurant android app**
+[<img alt="Burg'ISEN" src="https://github.com/GBernard314/burgisen2.0/blob/main/icon.png" width="20" height="20" />](https://github.com/GBernard314/burgisen2.0) ```Burg'ISEN``` a school subject about making an **restaurant android app**
 
 [<img alt="Tracking" src="https://raw.githubusercontent.com/GBernard314/activity_tragle/main/resources/icon.png" width="20" height="20" />](https://github.com/GBernard314/activity_tragle) ```activity_tragle``` quick project for stats an **activity tracker made from google's data**
 
