@@ -2,7 +2,12 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gbernard314.gbernard314) [<img src="https://www.codewars.com/users/GBernard314/badges/micro" />](https://www.codewars.com/users/GBernard314) 
 ---
-[<img alt="LinkedIn" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="25" />](https://www.codewars.com/users/GBernard314) [<img alt="GMail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="25" />](https://mail.google.com/mail/?view=cm&fs=1&to=guillaume.bernard31415@gmail.com&su=To%20know%20you%20better&body=Hello%20There) [<img alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/1/19/WhatsApp_logo-color-vertical.svg" width="25" />](https://wa.me/+33645496185?text=I'm%20open%20for%20internship) [<img alt="Codewar" src="https://docs.codewars.com/logo.svg" width="25" />](https://www.codewars.com/users/GBernard314) [<img alt="Kaggle" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="25" />](https://www.kaggle.com/guillaumebernard314
+[<img alt="LinkedIn" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="25" />](https://www.codewars.com/users/GBernard314)
+[<img alt="GMail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="25" />](https://mail.google.com/mail/?view=cm&fs=1&to=guillaume.bernard31415@gmail.com&su=To%20know%20you%20better&body=Hello%20There) 
+[<img alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/1/19/WhatsApp_logo-color-vertical.svg" width="25" />](https://wa.me/+33645496185?text=I'm%20open%20for%20internship) 
+[<img alt="Codewar" src="https://docs.codewars.com/logo.svg" width="25" />](https://www.codewars.com/users/GBernard314) 
+[<img alt="LeetCode" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" width="25" />](https://leetcode.com/GBernard314/) 
+[<img alt="Kaggle" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="25" />](https://www.kaggle.com/guillaumebernard314
 )
 
 
