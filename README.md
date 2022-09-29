@@ -30,6 +30,9 @@ I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**
 
 </details>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/gbernard314)
+
+
 
 ## **Favorite Stack ⭐**
 <p>  
