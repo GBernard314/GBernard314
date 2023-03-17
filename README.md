@@ -21,12 +21,12 @@ I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**
 
 - 📊 I’m currently working on my data visualization skills
 
-## This week activity
+## All time activity
 
 <details>
 <summary>Wakatime Stats</summary>
 
-[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Azarogue&hide_border=true&title_color=E88C1C&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Azarogue&hide_border=true&title_color=E88C1C&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
