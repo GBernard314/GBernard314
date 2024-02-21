@@ -24,12 +24,14 @@ My name is Guillaume **BERNARD**
 
 ## All time activity
 
+<!--
 <details>
 <summary>Wakatime Stats</summary>
 
-[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Azarogue&hide_border=true&title_color=E88C1C&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
 </details>
+-->
+
+[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Azarogue&hide_border=true&title_color=E88C1C&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/gbernard314)
 
@@ -121,7 +123,9 @@ My name is Guillaume **BERNARD**
   
 </p>
 
+<!--
 [![GBernard Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBernard314&hide_border=false&langs_count=10&layout=compact&card_width=854&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 ## Projects
