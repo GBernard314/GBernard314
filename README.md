@@ -17,7 +17,7 @@
 
 My name is Guillaume **BERNARD**
 <!-- I am a **Dynamic** student in Site Reliability apprenticeship at [**Thales DIS**](https://www.thalesgroup.com) and finalizing an Engineering degrees in Big Data & Cloud Computing, looking for a (preferably remote) position in a **Data science** related field starting **October 2022**. -->
-[my portfolio](https://my-portfolio-cec16.stackbit.app/)
+[my portfolio](https://gbernard314.notion.site/)
 
 
 - 📊 I’m currently working on my data visualization skills
