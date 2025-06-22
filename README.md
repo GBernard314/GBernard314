@@ -135,6 +135,8 @@ My name is Guillaume **BERNARD**
 ![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=000000&icon_color=E88C1C) 
 </p>
 
+[<img alt="fluff" src="[https://github.com/GBernard314/supreme-lamp/blob/main/resources/sun.png](https://github.com/GBernard314/fluffy-system/blob/main/icon.png)" width="20" height="20" />]([https://github.com/GBernard314/supreme-lamp](https://github.com/GBernard314/fluffy-system)) ```fluffy-system``` Stocks Market ETL Project
+
 [<img alt="sun" src="https://github.com/GBernard314/supreme-lamp/blob/main/resources/sun.png" width="20" height="20" />](https://github.com/GBernard314/supreme-lamp) ```supreme-lamp``` the **solar flares analysis** school project
 
 [<img alt="theCAP" src="https://github.com/The-Cap/the-cap/blob/machineLearning/img/THE_CAP_icon_round_flat.png" width="20" height="20" />](https://github.com/The-Cap/the-cap) ```the-CAP``` the **Comment-Analyze-Predict** sport Bot
